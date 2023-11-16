@@ -1,4 +1,4 @@
-# Social-Role-Prompting
+### Is “A Helpful Assistant” the Best Role for Large Language Models? A Systematic Evaluation of Social Roles in System Prompts
 
 This is the repository for the paper: Is “A Helpful Assistant” the Best Role for Large Language Models? A Systematic Evaluation of Social Roles in System Prompts
 
